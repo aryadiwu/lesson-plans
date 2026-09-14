@@ -8,6 +8,6 @@ Repository ini berisi kumpulan **Lesson Plan (Rencana Penyajian)** dan Modul Aja
 
 ## 📁 Daftar Lesson Plan
 
-| Pertemuan | Judul Materi | Format |
-| :-: | :--- | :-: |
-| **Pertemuan 15** | Finishing Desain: Pre-flighting, Color Mode, & Exporting Final Artwork | [`pertemuan-15.md`](./lesson-plans/pertemuan-15.md) |
+| Pertemuan | Judul Materi | Versi Markdown (GitHub) | Versi Word Template (`.docx`) |
+| :-: | :--- | :-: | :-: |
+| **Pertemuan 15** | Finishing Desain: Pre-flighting, Color Mode, & Exporting Final Artwork | [`pertemuan-15.md`](./lesson-plans/pertemuan-15.md) | [`lessonplan_pertemuan15.docx`](./lesson-plans/lessonplan_pertemuan15.docx) |
